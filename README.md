@@ -309,7 +309,7 @@ Through this project, I strengthened my skills in:
 Aspiring Data Analyst passionate about SQL, Power BI, Tableau, Python, and turning raw data into meaningful business insights.
 
 - GitHub: https://github.com/ramanp83
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/raman-pinate-12653223a/
 
 ---
 
